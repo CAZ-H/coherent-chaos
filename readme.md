@@ -7,11 +7,6 @@ The mobile app will not be maintained in this fork.
 
 Coherent Chaos is a web-based hexagonal checkers-like board game. 2 players compete to capture each others' pieces while the hexagonal game board shrinks.
 
-# Access
-
-## Server
-http://18.191.224.215:5000/
-
 # Setup
 
 For web setup, please see `/web`.  
