@@ -1,7 +1,7 @@
 # Note
 
-This repo is duplicated from `ZackHJ/comp4350-project` and is intended as an extreme fork of the project. Ideally, this project will develop well beyond the scope of the university assignment it initially was.  
-The mobile app will not be maintained in this fork.
+This repo is duplicated from `ZackHJ/comp4350-project` and is intended as a fork of the project.  
+Perhaps I'll come back to this later and develop it further.
 
 # About
 
